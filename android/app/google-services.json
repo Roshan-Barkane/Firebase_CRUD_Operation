@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419727329398",
+    "project_id": "firbase-crup",
+    "storage_bucket": "firbase-crup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419727329398:android:b82a2e8af43e2e162b7757",
+        "android_client_info": {
+          "package_name": "com.example.callenge_9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvErPJJrrk6qC_S_gojSHM21sqsdX0D08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
